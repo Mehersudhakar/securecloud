@@ -19,5 +19,4 @@ stegano==0.9.9
 typing_extensions==4.1.1
 Werkzeug==1.0.1
 wincertstore==0.2
-wsgi
 zipp==3.7.0
