@@ -1,1 +1,1 @@
-web: python app.py 0.0.0.0:$80
+web: python app.py 127.0.0.1:5000
