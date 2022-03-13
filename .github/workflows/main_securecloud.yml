@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'securecloud'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED97163B23FB4737AA644D15BBEA44F6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8A1E3EFCED5A4D149FB761E7020B9272 }}
